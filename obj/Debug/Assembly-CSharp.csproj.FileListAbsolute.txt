@@ -1,0 +1,11 @@
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\UnityEditor.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\UnityEngine.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\Mono.Cecil.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\nunit.framework.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\Unity.DataContract.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\obj\Debug\Assembly-CSharp.dll
+C:\Giovanni\Dropbox\Dropbox\Seek Missel\obj\Debug\Assembly-CSharp.pdb
